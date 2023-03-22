@@ -52,7 +52,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 	<meta name="robots" content="noindex,nofollow">
 	<meta charset="UTF-8">
 	
-	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="style.css" rel="stylesheet" type="text/css">
 	
 </head>
 <body>
